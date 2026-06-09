@@ -1,16 +1,57 @@
-## Hi there 👋
+👋 Hi, I’m Farrell Ramadhan
 
-<!--
-**mfarrellramadhan-arch/mfarrellramadhan-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer enthusiast and Informatics Engineering student passionate about creating responsive, accessible, and engaging web experiences.
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Informatics Engineering Student at UPN “Veteran” Yogyakarta
+* 💻 Focused on Front-End Development and UI/UX Design
+* 🌱 Currently learning JavaScript, Algorithms, Web Performance, and Modern Web Development
+* 🎯 Aspiring to become a professional Front-End Engineer
+
+🛠 Tech Stack
+
+Frontend
+
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+
+Tools
+
+* Git & GitHub
+* VS Code
+* Figma
+
+📚 Currently Learning
+
+* Data Structures & Algorithms
+* Web Accessibility (a11y)
+* Responsive Design
+* Performance Optimization
+* Frontend Architecture
+
+🌟 Featured Project
+
+Personal Portfolio Website
+
+Responsive personal portfolio built with HTML, CSS, and JavaScript.
+
+🔗 Portfolio:
+https://mfarrellramadhan-arch.github.io/PROFILE-CARD/
+
+📈 Goals for 2026
+
+* Build more real-world frontend projects
+* Master JavaScript fundamentals
+* Learn React ecosystem
+* Contribute to open source projects
+
+📫 Contact
+
+* GitHub: github.com/mfarrellramadhan-arch
+* Instagram: @flerstilljobless
+
+⸻
+
+“Learning by building. Growing through consistency.”
