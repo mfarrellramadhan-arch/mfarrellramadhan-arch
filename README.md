@@ -64,7 +64,7 @@ https://mfarrellramadhan-arch.github.io/PROFILE-CARD/
 * Learn React ecosystem
 * Contribute to open source projects
 
-📫 Contact
+<h2 align="center">📫 Let's Connect</h2>
 
 <p align="center">
 
@@ -87,7 +87,6 @@ https://mfarrellramadhan-arch.github.io/PROFILE-CARD/
   </a>
 
 </p>
-
 ⸻
 
 “Learning by building. Growing through consistency.”
