@@ -67,7 +67,7 @@ https://mfarrellramadhan-arch.github.io/PROFILE-CARD/
 📫 Contact
 
 * GitHub: github.com/mfarrellramadhan-arch
-* Instagram: @flerstilljobless
+* Instagram: [![Instagram](https://img.shields.io/badge/Instagram-@flerstilljobless-E4405F?logo=instagram&logoColor=white)](https://instagram.com/flerstilljobless)
 
 ⸻
 
