@@ -6,7 +6,7 @@
 
 <p align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=600&lines=Frontend+Developer;UI%2FUX+Enthusiast;Learning+JavaScript+and+Algorithms" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=600&lines=Frontend+Developer;UI%2FUX+Enthusiast;Learning+JavaScript+and+Web+Design" />
 
 </p>
 
