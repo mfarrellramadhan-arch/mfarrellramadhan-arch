@@ -66,21 +66,11 @@ https://mfarrellramadhan-arch.github.io/PROFILE-CARD/
 
 <h2 align="center">📫 Let's Connect</h2>
 
-<p align="center">
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-2563eb?style=for-the-badge)](https://mfarrellramadhan-arch.github.io/PROFILE-CARD/)
 
-  <a href="https://instagram.com/flerstilljobless">
+[![GitHub](https://img.shields.io/badge/GitHub-mfarrellramadhan--arch-181717?style=for-the-badge&logo=github)](https://github.com/mfarrellramadhan-arch)
 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" />
-
-  </a>
-
-  <a href="https://github.com/mfarrellramadhan-arch">
-
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-
-  </a>
-
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-@flerstilljobless-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/flerstilljobless)
 
 ⸻
 
