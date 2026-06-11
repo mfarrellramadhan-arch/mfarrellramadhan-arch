@@ -64,13 +64,29 @@ https://mfarrellramadhan-arch.github.io/PROFILE-CARD/
 * Learn React ecosystem
 * Contribute to open source projects
 
-<h2 align="center">📫 Let's Connect</h2>
+<h3 align="center">📫 Let's Connect</h3>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-2563eb?style=for-the-badge)](https://mfarrellramadhan-arch.github.io/PROFILE-CARD/)
+<p align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-mfarrellramadhan--arch-181717?style=for-the-badge&logo=github)](https://github.com/mfarrellramadhan-arch)
+  <a href="https://instagram.com/flerstilljobless">
 
-[![Instagram](https://img.shields.io/badge/Instagram-@flerstilljobless-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/flerstilljobless)
+    <img src="https://img.shields.io/badge/@flerstilljobless-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+
+  </a>
+
+  <a href="https://github.com/mfarrellramadhan-arch">
+
+    <img src="https://img.shields.io/badge/mfarrellramadhan--arch-181717?style=flat-square&logo=github&logoColor=white" />
+
+  </a>
+
+  <a href="https://mfarrellramadhan-arch.github.io/PROFILE-CARD/">
+
+    <img src="https://img.shields.io/badge/Portfolio-Live-2563eb?style=flat-square" />
+
+  </a>
+
+</p>
 
 ⸻
 
