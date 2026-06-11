@@ -70,19 +70,19 @@ https://mfarrellramadhan-arch.github.io/PROFILE-CARD/
 
   <a href="https://instagram.com/flerstilljobless">
 
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-@flerstilljobless-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 
   </a>
 
   <a href="https://github.com/mfarrellramadhan-arch">
 
-    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-@mfarrellramadhan-arch-181717?style=for-the-badge&logo=github">
 
   </a>
 
   <a href="https://mfarrellramadhan-arch.github.io/PROFILE-CARD/">
 
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C896?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Portfolio-https://mfarrellramadhan-arch.github.io/PROFILE-CARD%20Website-00C896?style=for-the-badge">
 
   </a>
 
