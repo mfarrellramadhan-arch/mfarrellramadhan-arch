@@ -84,7 +84,7 @@ Currently improving my skills through personal projects and continuous learning 
 
 ## 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/mfarrellramadhan-arch)
+[![GitHub](https://img.shields.io/badge/GitHub-@mfarrellramadhan-181717?style=for-the-badge&logo=github)](https://github.com/mfarrellramadhan-arch)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Farrell_Ramadhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farrell-ramadhan-al-farabi-071b003bb?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
