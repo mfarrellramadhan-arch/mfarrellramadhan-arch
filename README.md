@@ -75,15 +75,13 @@ Currently improving my skills through personal projects and continuous learning 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/mfarrellramadhan-arch)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-PLACEHOLDER-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farrell-ramadhan-al-farabi-071b003bb?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
-[![Instagram](https://img.shields.io/badge/Instagram-PLACEHOLDER-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/flerstilljobless?utm_source=qr)
 
-[![Discord](https://img.shields.io/badge/Discord-PLACEHOLDER-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://mfarrellramadhan-arch.github.io/PROFILE-CARD/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
-[![Email](https://img.shields.io/badge/Email-PLACEHOLDER-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-mfarrellramadhan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
 ---
 
