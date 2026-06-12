@@ -1,9 +1,16 @@
 # Hi, I'm Farrell 👋
 
-<div align="center">
+<p align="center">
 
-<img src="https://placehold.co/1200x300/0f172a/ffffff?text=Farrell+Ramadhan+-+Frontend+Developer" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:2563eb&text=Farrell%20Ramadhan&fontSize=40&fontColor=ffffff" />
 
+</p>
+
+<p align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=600&lines=Frontend+Developer;UI%2FUX+Enthusiast;Learning+JavaScript+and+Web+Design" />
+
+</p>
 ### Front-End Web Developer • UI/UX Enthusiast • Lifelong Learner
 
 <p>
