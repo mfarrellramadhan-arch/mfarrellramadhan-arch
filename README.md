@@ -98,6 +98,6 @@ Currently improving my skills through personal projects and continuous learning 
 
 <div align="center">
 
-⭐ Always learning, always building.
+⭐ Still learning, always learning.
 
 </div>
