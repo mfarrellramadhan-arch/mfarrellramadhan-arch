@@ -48,7 +48,7 @@ Currently improving my skills through personal projects and continuous learning 
 
 ### Design
 
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 ### Tools
 
